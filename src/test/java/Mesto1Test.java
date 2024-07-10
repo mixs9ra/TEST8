@@ -17,6 +17,7 @@ public class Mesto1Test {
         RestAssured.baseURI = "https://qa-mesto.praktikum-services.ru";
     }
 
+
     @Test
     @DisplayName("Add a new photo")
     @Description("This test is for adding a new photo to Mesto.")
