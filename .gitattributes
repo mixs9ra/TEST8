@@ -1,1 +1,2 @@
-*.java linguist-detectable=true
+$ cat .gitattributes
+*.rb linguist-language=Java
